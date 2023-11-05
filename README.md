@@ -8,7 +8,7 @@ This project is a portfolio I built to describe myself and display my past, pres
 
 - [Description](#description)
 - [Installation](#installation)
-- [Deployed]
+- [Deployed](#deployed)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Screenshots](#screenshots)
